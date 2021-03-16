@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center">
 
-    <q-card class="q-ma-none">
+    <q-card class="q-ma-none" style="min-width: 15cm;">
       <q-card-section>
         <q-toolbar class="bg-grey-3 q-pa-none">
             <q-avatar>
