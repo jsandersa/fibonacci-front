@@ -1,22 +1,24 @@
 # Quasar App (tarea2)
 
-A Quasar Framework app
+Se utilizó Quasar Framework
 
-## Install the dependencies
+## Instalar dependencias
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar aplicación en el modo desarrollador
 ```bash
 quasar dev
 ```
 
 
-### Build the app for production
+### Compilar aplicación para modo productivo
 ```bash
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Personalizar configuración
+Vea [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+_OJO: En caso que sea necesario ajustar la ubicación del back-end, el valor está  en la línea 73 del archivo "Index.vue"
